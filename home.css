@@ -21,3 +21,9 @@
 .ctm{
 	font-weight: 900;
 }
+
+a:link {
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+  }
