@@ -23,7 +23,7 @@
 }
 
 .navbar-custom a:link {
-	color: white;
+	color: white !important;
 	background-color: transparent;
 	text-decoration: none;
   }
